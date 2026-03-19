@@ -88,6 +88,7 @@ plt.axis("off")
 <br>
 <br>
 <br>
+<img width="502" height="462" alt="image" src="https://github.com/user-attachments/assets/dd301ea9-0b81-437a-a27e-9c40dc40ce31" />
 
 
 
@@ -99,6 +100,7 @@ plt.axis("off")
 <br>
 <br>
 <br>
+<img width="472" height="466" alt="image" src="https://github.com/user-attachments/assets/e1a274e1-7867-4def-8a11-bb7b07e18562" />
 
 
 
@@ -110,6 +112,7 @@ plt.axis("off")
 <br>
 <br>
 <br>
+<img width="453" height="467" alt="image" src="https://github.com/user-attachments/assets/aa251790-7037-4d37-851b-a1779734ed9e" />
 
 
 
